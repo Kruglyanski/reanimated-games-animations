@@ -7,7 +7,7 @@
 
 
 import {StyleSheet, } from 'react-native';
-import CatchTheBoxScreen from './src/screens/CatchTheBoxScreen';
+import CatchTheBoxScreen from './src/screens/CatchTheBoxScreen/CatchTheBoxScreen';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 function App() {
